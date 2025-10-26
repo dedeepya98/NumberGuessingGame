@@ -41,7 +41,7 @@ public class NumberGuessingGame {
                 System.out.println("Guess a smaller numner");
             }
 
-            System.out.println("Renter your guess (1-100): ");
+            System.out.println("Re-enter your guess (1-" + response + "): ");
 
         }
 
